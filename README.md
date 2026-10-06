@@ -22,4 +22,4 @@ The goal of this lab was to combine three data sources (customers, orders and a 
 
 ## Conclusion
 
-The duplicate customer and the missing customer C999 were the biggest data quality problems. After cleaning, Corporate (46,800) is the top segment and Nairobi (39,800) is the top region and Brian being the customer with most number of totalsales. The main limitation is the small dataset of 15 orders, so these are patterns, not proof. The analysis also doesn't show how order count versus order size drives sales.
+The duplicate customer and the missing customer C999 were the biggest data quality problems. After cleaning, Corporate (46,800) is the top segment and Nairobi (39,800) is the top region and Brian being the customer with most number of totalsales(20800) The main limitation is the small dataset of 15 orders, so these are patterns, not proof. The analysis also doesn't show how order count versus order size drives sales.
